@@ -46,7 +46,7 @@ Notebook file (main.ipynb) is available here to showcase work related to the abo
 
 ## Results<a name="results"></a>
 
-The main thoughts and findings can be found in the post available[HERE]
+The main thoughts and findings can be found in the post available here  https://medium.com/@ilyakalagin/discovering-the-perfect-lodging-for-my-family-in-bangkok-my-journey-of-analytical-exploration-and-dff1bdfcca46
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
