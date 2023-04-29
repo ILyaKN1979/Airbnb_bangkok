@@ -11,10 +11,15 @@
 ## Installation <a name="installation"></a>
 
 There should be a distribution of Python versions 3.* and the following libraries:
+
 conda install pandas
+
 conda install numpy
+
 conda install matplotlib
+
 conda install seaborn
+
 conda install plotly
 
 
